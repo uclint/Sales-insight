@@ -13,7 +13,7 @@ Customer service team, and
 Data & Analytics team
 
 Success Criteria:
-  A dashboard uncovering sales insights with latest data available
+	A dashboard uncovering sales insights with latest data available
   Sales team are able to make better decisions and prove 10% cost savings of total spend
   Saves 20% of sales analyst time from gathering data manually
 
