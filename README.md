@@ -7,9 +7,9 @@ He is also having issues with his local regional managers not showing him a clea
 Aim: I have been employed to create a dashboard to provide quick and latest sales insights in order to support data driven decision making.
 
 Stakeholders: 
-Sales Director
-Marketing team
-Customer service team
+Sales Director,
+Marketing team,
+Customer service team, and
 Data & Analytics team
 
 Success Criteria:
