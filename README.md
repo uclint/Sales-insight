@@ -19,7 +19,7 @@
 * Saves 20% of sales analyst time from gathering data manually
 
 link to dashboard
-https://app.powerbi.com/reportEmbed?reportId=8f14cfd1-c6ba-4c76-a217-b3f05b6c6173&autoAuth=true&ctid=defaf8e9-014b-419b-8f6f-560162d989dc&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVrLXNvdXRoLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiOWFlNGI1NjctMTU1NS00MDQ2LTg1MzAtNTZiZWY1YTQ2Mjk5IiwidCI6ImRlZmFmOGU5LTAxNGItNDE5Yi04ZjZmLTU2MDE2MmQ5ODlkYyJ9
 
 **Dashboard image**
 
